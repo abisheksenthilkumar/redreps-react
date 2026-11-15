@@ -20,7 +20,8 @@ const Footer = () => (
       textAlign="center"
       pb="40px"
     >
-      Made by Abishek Senthil Kumar
+      Made by{' '}
+      <a href="https://abisheksenthilkumar.github.io/">Abishek Senthil Kumar</a>
     </Typography>
   </Box>
 );
